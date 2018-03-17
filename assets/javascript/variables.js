@@ -1,6 +1,6 @@
 
 var answer1 = {
-    Question1 :'Throughout the Ole Miss football history, how many different head coaches have led the team to an SEC Championship?'
+    Question1 :'Throughout the Ole Miss football history, how many different head coaches have led the team to an SEC Championship?',
     options : ['1','0','2','3'],
     answer : '1',
     userAnswer : '',
