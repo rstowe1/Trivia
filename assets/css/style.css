@@ -1,4 +1,9 @@
 body {
-    background: azure;
+    background:#193060;
     text-align: center;
+    color: #FAFFFC;
+}
+
+.jumbotron {
+    background-color: #D04451;
 }
