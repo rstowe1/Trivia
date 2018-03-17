@@ -25,7 +25,7 @@ var answer3 = {
 
 var answer4 = {
     Question4 : 'Which Ole Miss QB threw for 6 touchdowns in a single game?',
-    options : ['Eli Manning', 'Archie Manning', 'Shay Hodges', 'Chris Collins']
+    options : ['Eli Manning', 'Archie Manning', 'Shay Hodges', 'Chris Collins'],
     Answer :'Eli Manning',
     userAnswer : '',
     correctAnswer: ''
